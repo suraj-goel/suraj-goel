@@ -7,7 +7,8 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a Senior Software Engineer at **Confluent**. Currently I am working on Confluent Cloud Scale Observability problems.
+
+- I'm a Senior Software Engineer at **Confluent**. Currently I am working on Internet Scale Observability Problems.
 ---
 
 ### 🚀 Work Experience  
