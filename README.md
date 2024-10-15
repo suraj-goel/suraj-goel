@@ -14,7 +14,7 @@
 ### 🚀 Work Experience  
 - **Confluent**  
   _Senior Software Engineer_  
-  Working in Observability Team
+  - Working in Observability Team
 
 - **Amazon**  
   _Software Development Engineer_  
